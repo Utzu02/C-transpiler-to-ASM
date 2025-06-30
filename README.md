@@ -6,12 +6,6 @@ A simple C-to-Assembly transpiler that converts a subset of C-style syntax (vari
 - [Features](#features)
 - [Requirements](#requirements)
 - [Building](#building)
-- [Usage](#usage)
-- [Supported Syntax](#supported-syntax)
-- [Examples](#examples)
-- [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Transpiles simple expressions and assignments to assembly operations:
